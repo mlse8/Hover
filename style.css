@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 259px;
+    height: 244px;
+    margin: 0 auto;
+    background-image: url('hamster.jpg');
+}
+.container img:hover{
+    opacity: 0;
+}
